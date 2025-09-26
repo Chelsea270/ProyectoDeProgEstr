@@ -1,0 +1,19 @@
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 1 - PE\Clínica Odontológica\bin\Debug\Clínica Odontológica.exe.config
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 1 - PE\Clínica Odontológica\bin\Debug\Clínica Odontológica.exe
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 1 - PE\Clínica Odontológica\bin\Debug\Clínica Odontológica.pdb
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 1 - PE\Clínica Odontológica\obj\Debug\Clínica Odontológica.csproj.AssemblyReference.cache
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 1 - PE\Clínica Odontológica\obj\Debug\Clínica Odontológica.csproj.CoreCompileInputs.cache
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 1 - PE\Clínica Odontológica\obj\Debug\Clínica Odontológica.exe
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 1 - PE\Clínica Odontológica\obj\Debug\Clínica Odontológica.pdb
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 1 - PE\Clínica Odontológica\obj\Debug\Clínica Odontológica.exe.config
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 2 - PE\Clínica Odontológica\obj\Debug\Clínica Odontológica.csproj.AssemblyReference.cache
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 2 - PE\Clínica Odontológica\obj\Debug\Clínica Odontológica.exe.config
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 2 - PE\Clínica Odontológica\obj\Debug\Clínica Odontológica.csproj.CoreCompileInputs.cache
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 2 - PE\Clínica Odontológica\obj\Debug\Clínica Odontológica.exe
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 2 - PE\Clínica Odontológica\obj\Debug\Clínica Odontológica.pdb
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 2 - PE\Clínica Odontológica\bin\Debug\Clínica Odontológica.exe.config
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 2 - PE\Clínica Odontológica\bin\Debug\Clínica Odontológica.exe
+C:\____UAM Semestre 2 - 2025\1 y 2. PE\Semana 5 -Sesión 2 - PE\Clínica Odontológica\bin\Debug\Clínica Odontológica.pdb
+C:\Users\Usuario\OneDrive\Escritorio\UAM\programacion estructurada\semana 5\Clínica Odontológica - ESTUDIANTES\obj\Debug\Clínica Odontológica.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\UAM\programacion estructurada\semana 5\Clínica Odontológica - ESTUDIANTES\obj\Debug\Clínica Odontológica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\UAM\programacion estructurada\semana 5\Clínica Odontológica - ESTUDIANTES\obj\Debug\Clínica Odontológica.pdb
