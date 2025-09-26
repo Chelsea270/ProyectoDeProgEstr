@@ -1,2 +1,6 @@
 # ProyectoDeProgEstr
-programación estructurada.
+
+
+### Grupo 1
+## Chelsea Quintanilla
+## José Cristo Carvallo
